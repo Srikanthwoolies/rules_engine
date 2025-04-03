@@ -30,6 +30,7 @@ env/
 .vscode/
 *.swp
 *.swo
+.venv/
 
 # GCP
 .gcp-service-account.json
